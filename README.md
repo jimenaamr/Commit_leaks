@@ -10,10 +10,10 @@ En este repositorio se encuentran los archivos necesarios para hacer un commit d
 
 ## Modo de Ejecución
 
-1- Crear un directorio llamado skale con el comando `mkdir skale`
-2- Meterse en dicho directorio con el comando `cd skale`
-3- Clonar el repositorio con `git clone https://github.com/skalenetwork/skale-manager`
-4- Volver al directorio donde has creado la carpeta skale con el comando `cd ..`
-5- Instalar las librerias del requirements.txt con el comando `pip install -r requirements.txt`
-6- Descargarse el programa *commit_leaks.py* en el directorio actual
-7- Ejecutar el fichero commit_leaks.py
+1. Crear un directorio llamado skale con el comando `mkdir skale`
+2. Meterse en dicho directorio con el comando `cd skale`
+3. Clonar el repositorio con `git clone https://github.com/skalenetwork/skale-manager`
+4. Volver al directorio donde has creado la carpeta skale con el comando `cd ..`
+5. Instalar las librerias del requirements.txt con el comando `pip install -r requirements.txt`
+6. Descargarse el programa *commit_leaks.py* en el directorio actual
+7. Ejecutar el fichero commit_leaks.py
